@@ -95,6 +95,9 @@ body {
     background-repeat: no-repeat;
     background-color: var(--Violet);
   }
+  .container {
+    min-width: 375px;
+  }
   .wrapper {
     margin-top: 22px;
     padding: 2.5rem;
