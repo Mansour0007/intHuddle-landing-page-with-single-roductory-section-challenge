@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here]https://github.com/Mansour0007/intHuddle-landing-page-with-single-roductory-section-challenge)
+- Live Site URL: [Add live site URL here]https://agitated-jepsen-a7da39.netlify.app/)
 
 ## My process
 
