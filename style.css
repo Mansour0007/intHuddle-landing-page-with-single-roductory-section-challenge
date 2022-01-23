@@ -53,6 +53,7 @@ body {
   color: #dddddd;
   margin-bottom: 18px;
 }
+
 .btn {
   padding: 0.7rem 2.6rem;
   border-radius: 15rem;
@@ -66,6 +67,7 @@ body {
 }
 .btn:hover {
   background-color: var(--Soft-Magenta);
+  color: #fff;
 }
 .btn:hover a {
   color: #fff;
@@ -96,6 +98,7 @@ body {
   .wrapper {
     margin-top: 22px;
     padding: 2.5rem;
+    min-width: 375px;
   }
   .navbar {
     margin-top: -2.5rem;
